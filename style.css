@@ -1,0 +1,12 @@
+.my-bg-blue{
+    background: #73CDE7 !important;  
+}
+.circle{
+    border-radius: 5px;
+    height: 20px;
+    width: 20px;
+    background-color: red;
+}
+.my-bg-ash{
+    background-color:grey !important;
+}
